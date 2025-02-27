@@ -1,1 +1,3 @@
 # bskyrerank
+
+![](plots/protalgo.png)
