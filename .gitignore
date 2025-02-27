@@ -1,0 +1,7 @@
+config.py
+data/
+*.DS_Store
+*.Rhistory
+__pycache__/
+myenv/
+processed_ids.txt
