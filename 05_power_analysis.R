@@ -52,3 +52,5 @@ ggplot(mde_df, aes(x = N, y = MDE)) +
     axis.text       = element_text(color = "grey20"),
     panel.grid.minor= element_blank()
   )
+
+ggsave("plots/power_analysis.png", width = 8, height = 5, dpi = 300)
